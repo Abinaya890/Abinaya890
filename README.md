@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abi
-- 👀 I'm pursuing MCA at Bharathiar University
-- 🌱 I’m currently learning Salesforce and java
-- 💞️ “Looking forward to work for my dream and learning new skills for upgrade my knowledge in IT field"
+
+- 🌱 I’m currently learning Salesforce and Java
+- 💞️ “Looking forward to working for my dream and learning new skills to upgrade my knowledge in the IT field"
